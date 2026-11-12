@@ -721,6 +721,33 @@ section,
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
+.resume .resume-download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 11px 22px;
+  color: #ffffff;
+  background: linear-gradient(135deg, #0f1011, #1b2630);
+  border: 2px solid #00bfff;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(0, 191, 255, 0.18);
+  transition: background-color 0.25s ease, color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.resume .resume-download-btn:hover {
+  color: #0f1011;
+  background: #00bfff;
+  box-shadow: 0 7px 20px rgba(0, 191, 255, 0.35);
+  transform: translateY(-2px);
+}
+
+.resume .resume-download-btn:focus-visible {
+  outline: 3px solid rgba(0, 191, 255, 0.45);
+  outline-offset: 3px;
+}
+
 .resume .resume-title {
   color: var(--heading-color);
   font-size: 26px;
