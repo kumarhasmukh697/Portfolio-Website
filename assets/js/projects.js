@@ -9,10 +9,10 @@
       short: "A multi-vendor food marketplace connecting customers, food vendors and delivery partners.",
       description: "FoodHub is a multi-vendor food marketplace project. The interface includes customer-facing food discovery, vendor-side menu management and dashboard screens. The gallery shows the marketplace landing page, sign-in screen, vendor dashboard and menu-management experience.",
       technologies: "Python, Django, Django REST Framework, HTML, CSS, JavaScript",
-      github: "",
-      live: "",
+      github: "https://github.com/kumarhasmukh697/food_marketplace",
+      live: "https://foodhub.net.in",
       images: [
-        "assets/project_images/foodhub-multivendor-image.png",
+        // "assets/project_images/foodhub-multivendor-image.png",
         "assets/project_images/foodhub1.png",
         "assets/project_images/foodhub2.png",
         "assets/project_images/foodhub3.png",
@@ -20,32 +20,33 @@
         "assets/project_images/foodhub5.png"
       ]
     },
-    "jay-ambapati": {
-      title: "Jay Ambapati Products – Online Store",
-      short: "An ecommerce website project for a saree and clothing business.",
-      description: "This project presents an online-store concept for Jay Ambapati Products. The gallery includes the shop exterior, store inventory and product-display photographs, along with invoice-related screens. Replace or expand this overview with the final feature list when you are ready.",
-      technologies: "Ecommerce website – add the final technology stack",
-      github: "",
-      live: "",
+    "job-portal": {
+      title: "Job Portal – Connect Job Seeker and Employer",
+      short: "A job portal website project for connecting job seekers and employers.",
+      description: "This project presents a job portal concept for connecting job seekers and employers. The gallery includes the homepage, job listing page, employer dashboard and candidate profile screens. Replace or expand this overview with the final feature list when you are ready.",
+      technologies: "Python, Django, Django REST Framework, HTML, CSS, JavaScript, PostgreSQL",
+      github: "https://github.com/kumarhasmukh697/Job_Portal_Application",
+      live: "https://job-portal-o70n.onrender.com/",
       images: [
-        "assets/project_images/ambapati-shop-image.png",
-        "assets/project_images/ambapati_shop_image.jpg",
-        "assets/project_images/ambapati_shop_image1.jpg",
-        "assets/project_images/shop-inside-image.png",
-        "assets/project_images/ambapati_invoice.jpg",
-        "assets/project_images/invoice-image.png"
+        
+        "assets/project_images/Modern Opportunity Login Interface.png",
+        "assets/project_images/Modern Opportunity Signup Page.png",
+        "assets/project_images/NaukriNova Employer job Dashboard.png"
       ]
     },
     "bdm-capstone": {
       title: "Business Data Management – Capstone",
       short: "A Business Data Management capstone project focused on business data and financial information.",
-      description: "This capstone project is presented with its Business Data Management title artwork and finance-related visual. Add the specific business problem, dataset, methodology, findings and tools used to make this project description more detailed.",
-      technologies: "Business Data Management, Data Analysis – add the exact tools used",
-      github: "",
-      live: "",
+      description: "As part of the IIT Madras BDM Capstone Project, our task is to approach local businesses and small-scale firms, interact directly with their owners, and understand the real-world challenges they face in managing and operating their businesses.The first step is to convince a business owner to collaborate with us and share relevant business data for analysis. Through discussions with the owner, we identify **three major business problems or challenges** that the business is currently facing. Once we understand these problems, we collect the relevant data provided by the business, analyze it using Microsoft Excel, and develop practical, data-driven solutions to address the identified challenges.The objective is not just to analyze data but to convert raw business data into meaningful insights that can help business owners make better decisions, improve operational efficiency, identify potential growth opportunities, and solve real business problems.",
+      technologies: "Excel, Google Sheets, Ms Word, Ms PowerPoint, Canva",
+      github: "https://github.com/kumarhasmukh697/bdm_capstone_project",
+      live: "https://kumarhasmukh697.github.io/bdm_capstone_project/",
       images: [
-        "assets/project_images/bdm-project-image.png",
-        "assets/project_images/finance.jpg"
+       
+        "assets/project_images/ambapati-shop-image.png",
+        "assets/project_images/shop-inside-image.png",
+        "assets/project_images/invoice-image.png"
+        
       ]
     }
   };
