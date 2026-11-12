@@ -28,9 +28,10 @@
       github: "https://github.com/kumarhasmukh697/Job_Portal_Application",
       live: "https://job-portal-o70n.onrender.com/",
       images: [
-        "assets/project_images/Modern Opportunity Login Interface.png",
-        "assets/project_images/Modern Opportunity Signup Page.png",
-        "assets/project_images/NaukriNova Employer job Dashboard.png",
+        "assets/project_images/Job-Portal-Signupage.png",
+        "assets/project_images/Job-Portal-Loginpage.png",
+        "assets/project_images/Job-Portal-Homepage.png",
+        "assets/project_images/Job-Portal-Employer-Dashboard.png",
       ]
     },
     "bdm-capstone": {
