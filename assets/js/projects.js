@@ -7,7 +7,7 @@
     "foodhub": {
       title: "FoodHub – Multivendor Food Marketplace",
       short: "A multi-vendor food marketplace connecting customers, food vendors and delivery partners.",
-      description: "FoodHub is a multi-vendor food marketplace project. The interface includes customer-facing food discovery, vendor-side menu management and dashboard screens. The gallery shows the marketplace landing page, sign-in screen, vendor dashboard and menu-management experience.",
+      description: "FoodHub is a multi-vendor food ordering platform that connects customers, food vendors, and delivery partners in one place. Customers can browse food items from different vendors, place orders, make secure payments through Razorpay, and track their deliveries. When a customer places an order, it is sent to the respective vendor, and the system automatically assigns the nearest available delivery partner to that vendor. Customers can also track the delivery partner using Google Maps API. The application includes authentication and role-based authorization to provide separate functionalities for customers, vendors, and delivery partners. I built the backend using Python, Django, and Django REST Framework, and deployed the application on a Linode server using Nginx to serve static files. I also implemented a CI/CD pipeline to simplify the deployment process and manage application updates.",
       technologies: "Python, Django, Django REST Framework, HTML, CSS, JavaScript",
       github: "https://github.com/kumarhasmukh697/food_marketplace",
       live: "https://foodhub.net.in",
